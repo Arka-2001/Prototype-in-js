@@ -23,3 +23,4 @@ const arka=new user("adfw@gmail.com","1234")
 
 console.log(arka.password);
 console.log(arka.email);
+
